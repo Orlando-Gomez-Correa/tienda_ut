@@ -1,0 +1,16 @@
+.bg {
+    /* The image used */
+    /*background-image: url("");*/
+    /* Full height */
+    height: 100%;
+    background-color: #FFFFFF;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.color_btn {
+    color: #FFFFFF;
+    background-color: #012C56;
+}
